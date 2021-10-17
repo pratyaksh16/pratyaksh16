@@ -1,5 +1,5 @@
-👋 Hi, I’m @pratyaksh16
-🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
+- 👋 Hi, I’m @pratyaksh16
+- 🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
 👀 I’m interested in Open Source
 🎯 My Goal is to Contribute to as many open source project as possible.
 ✨ I love to create different types of contents.
